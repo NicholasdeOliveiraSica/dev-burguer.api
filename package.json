@@ -1,0 +1,33 @@
+{
+  "name": "dev-burguer.api",
+  "version": "1.0.0",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "author": {
+    "name": "Nicholas de Oliveira Sica",
+    "url": "https://github.com/NicholasdeOliveiraSica"
+  },
+  "license": "ISC",
+  "description": "DevBurguer API",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.10.1",
+    "multer": "^1.4.5-lts.1",
+    "pg": "^8.13.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.37.5",
+    "uuid": "^11.0.5",
+    "yup": "^1.6.1"
+  },
+  "devDependencies": {
+    "eslint": "^9.19.0",
+    "nodemon": "^3.1.9",
+    "sequelize-cli": "^6.6.2",
+    "sucrase": "^3.35.0"
+  }
+}
