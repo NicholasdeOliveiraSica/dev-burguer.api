@@ -1,0 +1,47 @@
+# Dev Burguer API
+
+## English
+
+### Project Overview
+Dev Burguer API is a backend application designed to manage burger-related operations. It provides endpoints for managing orders, customers, and menu items, making it easier to integrate with frontend applications.
+
+### Features
+- Manage burger menu items.
+- Handle customer orders.
+- Track order statuses.
+
+### Technologies
+- Node.js
+- Express.js
+- MongoDB 
+- Postgres
+
+### How to Run
+1. Clone the repository.
+2. Install dependencies using `yarn`.
+3. Configure environment variables.
+4. Start the server with `yarn dev`.
+
+---
+
+## Português
+
+### Visão Geral do Projeto
+Dev Burguer API é uma aplicação backend projetada para gerenciar operações relacionadas a hambúrgueres. Ela fornece endpoints para gerenciar pedidos, clientes e itens do menu, facilitando a integração com aplicações frontend.
+
+### Funcionalidades
+- Gerenciar itens do menu de hambúrgueres.
+- Processar pedidos de clientes.
+- Acompanhar o status dos pedidos.
+
+### Tecnologias
+- Node.js
+- Express.js
+- MongoDB 
+- Postgres
+
+### Como Executar
+1. Clone o repositório.
+2. Instale as dependências usando `yarn`.
+3. Configure as variáveis de ambiente.
+4. Inicie o servidor com `yarn dev`.
